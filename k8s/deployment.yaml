@@ -30,7 +30,7 @@ spec:
     spec:
       containers:
         - name: nginx-static
-          image: 412125062808.dkr.ecr.ap-northeast-2.amazonaws.com/fs-petclinic-repo:39d93cec50a7e8625513251af25ebe027399da5a
+          image: 412125062808.dkr.ecr.ap-northeast-2.amazonaws.com/fs-petclinic-repo:4897c118adf26aec242497b98154fa7b8ef83a05
           ports:
             - name: http
               containerPort: 80
